@@ -105,5 +105,6 @@ Computer Science and Engineering student interested in machine learning, softwar
 
 ## ⚠️ Disclaimer
 
-This project is for educational and research purposes. Predictions are model estimates and do not guarantee that a website is safe or malicious.
+This project is for educational and research purposes. Predictions are model estimates and do not guarantee that a website is safe or malicious And 
+This project is showcased solely for portfolio and skill-demonstration purposes. Please do not copy, reproduce, or redistribute the project without my permission.
 
