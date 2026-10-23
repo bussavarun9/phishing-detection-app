@@ -2,7 +2,7 @@
 
 A machine learning-based web application that analyzes website URLs and predicts whether they may be **phishing or legitimate**. Built with Python and Streamlit, the application extracts URL-based features and uses a trained XGBoost classifier to make predictions.
 
-🚀 **Live Demo:** [Try the Phishing Detection App](https://phishing-detection-app-hbwhgfcxydeme37cksrb9w.streamlit.app/)
+🚀 **Live Demo:** [Try the Phishing Detection App](https://varun-bussa-phishing-app.streamlit.app/)
 
 ## 🚀 Features
 
